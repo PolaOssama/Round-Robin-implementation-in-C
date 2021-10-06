@@ -9,7 +9,7 @@ Round robin scheduling (RRS) is a job-scheduling algorithm that is considered to
 
 
 ## THE IDEA
-You enter the no. of processes and it's burst time then the application will draw a Gantt Chart and give you :
+You enter the *no. of processes* , it's *burst time* and the *quantum number* then the application will draw a Gantt Chart and give you :
 * Arrival Time 
 * Turn-arround Time
 * Waiting Time 
